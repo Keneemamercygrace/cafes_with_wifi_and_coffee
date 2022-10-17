@@ -1,0 +1,25 @@
+body{
+background-image:url('https://media.istockphoto.com/photos/coffee-beans-with-props-for-making-coffee-picture-id1173964664?k=20&m=1173964664&s=170667a&w=0&h=qlxW8YSA3oHwkyFghV_Mg69iaVB2k2PXVolKMerqpBE=');
+background-color:#333;
+color: white;
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+a {
+    color: #ffc107;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  color: white;
+  background-image:url('https://i.ytimg.com/vi/6IQqFidBXHk/maxresdefault.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.button{
+font-size:20px;
+}
